@@ -1,2 +1,2 @@
 This is version 1
-I want to go in commit 2
+This is changed now
